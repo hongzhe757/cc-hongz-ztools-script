@@ -6,14 +6,14 @@ import cc.hongz.ztools.script.ScriptUtil;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import javax.script.CompiledScript;
 import javax.script.ScriptEngine;
 import javax.script.ScriptException;
 
 /**
- * 脚本单元测试类
+ * 脚本单元测试类。
  *
  * @author looly
  *
