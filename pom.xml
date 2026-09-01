@@ -15,7 +15,7 @@
     <packaging>jar</packaging>
 
     <name>cc-hongz-ztools-script</name>
-    <description>脚本执行封装（对齐 hutool-script）</description>
+    <description>脚本执行封装</description>
 
     <dependencies>
         <!-- cc-hongz-ztools-core：核心工具 -->
